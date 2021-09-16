@@ -1,5 +1,5 @@
 This is a Deep Learning Challenge project where the task is, given English sentences, make a classifier
-that tries to predict wheter the given sentence is an original English text or a human translation from
+that tries to predict whether the given sentence is an original English text or a human translation from
 French into English. 
 The data provided consists of transcribed English Speech. Some of the sentences were originally uttered 
 in English (label 0), others were originally uttered in French and then translated by a human translator 
